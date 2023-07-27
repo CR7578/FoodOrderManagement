@@ -1,4 +1,4 @@
-﻿# FoodOrderManagement
+﻿# Food Order Management
 
 Import the database file into Mircosoft SQL Server.
 
